@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
