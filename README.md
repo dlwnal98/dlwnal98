@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
