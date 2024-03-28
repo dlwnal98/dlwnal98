@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
       <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/webstorm-2C2C32.svg?style=for-the-badge&logo=webstorm&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/webstorm-abff6b.svg?style=for-the-badge&logo=webstorm&logoColor=22ABF3" />&nbsp
 <!--   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
