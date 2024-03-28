@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=안녕하세요%20이주미입니다.&fontSize=80&desc=Frontend%20Developer&descAlignY=70&descAlign=85" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=안녕하세요%20이주미입니다.&fontSize=80&desc=Frontend%20Developer&descAlignY=70&descAlign=85" />
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
