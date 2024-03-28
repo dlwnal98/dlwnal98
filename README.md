@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=안녕하세요%20이주미입니다.&fontSize=80&desc=Frontend%20Developer&fontAlign=80&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=안녕하세요%20이주미입니다.&fontSize=80&desc=Frontend%20Developer&descAlignY=60&descAlignX=80)
 
 <!--
 **dlwnal98/dlwnal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
